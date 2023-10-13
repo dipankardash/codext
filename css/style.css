@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+/*common code start*/
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+}
+
+/*common code end*/
+/*header start*/
+
+
+header{
+    background-color: #ffffff;  
+}
+
+
+.fixed_top{
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+
+.menu ul li a{
+    padding: 0 16px !important;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000 !important;
+}
+
+
+.menu ul li a:hover{
+    color: #6D28D1 !important;
+}
+
+/*header end*/
+
+.part02{
+    padding-top: 85px;
+    background-color: #def6d0;
+}
+
+.s_item{
+    margin: 50px 0 50px;
+}
+
+.s_h1{
+    padding: 75px 0;
+    color: #000;
+}
+
+.s_p{
+    padding-bottom: 25px;
+    font-size: 18px;
+    color: #000;
+}
+
+.btns{
+    background-color: #fff;
+}
+
+.part03{
+    padding-top: 30px;
+}
+
+.thirdh{
+    color: #000;
+}
+
+.part04{
+    padding: 0 0 40px;
+    margin-top: 30px;
+    color: #000;
+}
+
+.space{
+    color: #000;
+}
+
+h4{
+    color: #242322;
+}
+
+.part04, .part05{
+    padding: 30px 0;
+    background-color: #D8F0F3;
+}
+
+.part041{
+    background-image: url(../images/part047.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.part023{
+    padding: 25px 0 50px;
+    margin: 13px;
+    background-color: #fff;
+}
+
+.part023:hover{
+    background-color: #dcc4ff !important;
+}
+
+.part024{
+    background-image: url(../images/part048.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.line{
+    margin: 10px auto !important;
+    width: 120px;
+    height: 2px;
+    background-color: #000;
+
+}
+
+.part04_h1{
+    padding: 25px 75px;
+}
+
+.space1{
+    margin-top: 60px;
+    color: #000;
+}
+
+.c_1, .c_2{
+    color: #fff;
+}
+
+.part05_con{
+    padding: 50px 0;
+}
+
+.part06{
+    margin: 50px 0 50px;
+}
+
+.part06_h1, .part05_h{
+    padding: 15px;
+    color: #000;
+}
+
+.part06_p{
+    padding: 30px 0;
+    color: #000;
+}
+
+.footer_part{
+    margin-top: 50px;
+    padding-top: 50px;
+    background-color: #000;
+}
+.f_p{
+    padding-top: 25px;
+    color: #dbdbdb;
+}
+.ft_links{
+    color: #dbdbdb;
+}
+
+a{
+    color: #dbdbdb;
+    text-decoration: none;
+}
+
+.f_last{
+    padding-top: 35px;
+}
+
